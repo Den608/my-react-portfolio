@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home">
       <section className="about">
-        <h1>Hi, My Name is Ikram</h1>
+        <h1>Welcome to My Portfolio!</h1>
         <article className="prompt">
           <p>
             A full stack developer with a passion for learning and
